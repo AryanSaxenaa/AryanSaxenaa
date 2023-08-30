@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying in [Thapar Institute of Engineering and Technology](https://www.thapar.edu/)
 
-- 📫 How to reach me **aryansaxenaalig@gmail.com**
+- 📫 You can reach me at **aryansaxenaalig@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
