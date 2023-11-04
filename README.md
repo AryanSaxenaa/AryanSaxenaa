@@ -16,7 +16,4 @@
 <a href="https://holopin.io/@aryansaxenaa">
   <img src="https://holopin.me/aryansaxenaa" alt="Holopin Profile" />
 </a>
-<a href="https://stats.quine.sh/AryanSaxenaa/github?theme=dark">
-  <img src="https://quine.sh?utm_source=widgets&utm_campaign=AryanSaxenaa)" alt="Github Stats" />
-</a>
-
+[![AryanSaxenaa's GitHub | Stats](https://stats.quine.sh/AryanSaxenaa/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AryanSaxenaa)
