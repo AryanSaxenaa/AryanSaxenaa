@@ -16,3 +16,24 @@
 <a href="https://holopin.io/@aryansaxenaa">
   <img src="https://holopin.me/aryansaxenaa" alt="Holopin Profile" />
 </a>
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AryanSaxenaa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>   
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AryanSaxenaa&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
