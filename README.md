@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Saxenna</h1>
 <h3 align="center">A passionate engineering student from India</h3>
 
-- 🔭 I’m currently studying at [Thapar Institute of Engineering and Technology](https://www.thapar.edu/)
 
 - 📫 You can reach me at **aryansaxenaalig@gmail.com**
 
