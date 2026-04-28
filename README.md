@@ -138,6 +138,17 @@ fun_fact: "I built a text-based sci-fi strategy game with zero dependencies — 
 
 ---
 
+<!-- 3D CONTRIBUTION GRAPH -->
+## 🧊 3D Contribution Map
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Contribution Graph"/>
+</div>
+
+> *Powered by [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — auto-generated daily via GitHub Actions*
+
+---
+
 <!-- GITHUB STATS -->
 ## 📊 GitHub Analytics
 
@@ -155,41 +166,6 @@ fun_fact: "I built a text-based sci-fi strategy game with zero dependencies — 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AryanSaxenaa&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
-
----
-
-<!-- 3D CONTRIBUTION GRAPH -->
-## 🧊 3D Contribution Map
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Contribution Graph"/>
-</div>
-
-> *Powered by [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) — auto-generated daily via GitHub Actions*
-
----
-
-<!-- METRICS -->
-## 📈 Detailed Metrics
-
-<div align="center">
-<img src="./github-metrics.svg" width="98%" alt="GitHub Metrics"/>
-</div>
-
-> *Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics) — auto-generated daily via GitHub Actions*
-
----
-
-<!-- SNAKE ANIMATION -->
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryanSaxenaa/AryanSaxenaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryanSaxenaa/AryanSaxenaa/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AryanSaxenaa/AryanSaxenaa/output/github-snake-dark.svg" width="98%" />
-</picture>
 </div>
 
 ---
