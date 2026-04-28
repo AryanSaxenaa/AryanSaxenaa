@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:0d1117&height=500&section=header&text=&fontSize=1&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=180&section=header&text=Aryan%20Saxena&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- 3D CONTRIBUTION GRAPH -->
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
@@ -80,6 +80,6 @@ fun_fact: "I built a text-based sci-fi strategy game with zero dependencies — 
 <br/>
 
 <!-- ANIMATED FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:0d1117&height=400&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
