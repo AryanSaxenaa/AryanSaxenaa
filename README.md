@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:0d1117&height=200&section=header&text=ARYAN%20SAXENA&fontSize=60&fontColor=00FF41&animation=twinkling&fontAlignY=55&desc=&descSize=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00FF41,100:0d1117&height=300&section=header&text=&fontSize=1&animation=twinkling" width="100%"/>
 
 <!-- 3D CONTRIBUTION GRAPH -->
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
