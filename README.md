@@ -1,54 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║     █████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗                              ║
-║    ██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║                              ║
-║    ███████║██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║                              ║
-║    ██╔══██║██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║                              ║
-║    ██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║                              ║
-║    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝                              ║
-║                                                                              ║
-║    ███████╗ █████╗ ██╗  ██╗███████╗███╗   ██╗ █████╗                         ║
-║    ██╔════╝██╔══██╗╚██╗██╔╝██╔════╝████╗  ██║██╔══██╗                        ║
-║    ███████╗███████║ ╚███╔╝ █████╗  ██╔██╗ ██║███████║                        ║
-║    ╚════██║██╔══██║ ██╔██╗ ██╔══╝  ██║╚██╗██║██╔══██║                        ║
-║    ███████║██║  ██║██╔╝ ██╗███████╗██║ ╚████║██║  ██║                        ║
-║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝  ╚═╝                        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%24+whoami+--+Full+Stack+Developer+%7C+Blockchain+Enthusiast;%24+cat+mission.txt+--+Building+AI-Powered+Tools+%26+Web3+Solutions;%24+uptime+--+Shipping+code+since+2022" alt="Typing SVG" /></a>
 
 </div>
 
 <br/>
-
-<!-- TERMINAL: SYSTEM INFO -->
-```bash
-┌──[aryan@github]─[~]
-└──╼ $ neofetch
-```
-
-```
-aryan@github
-─────────────────────
-OS      : Developer v4.0
-Host    : github.com/AryanSaxenaa
-Kernel  : Node.js / React / Solidity
-Shell   : bash + zsh
-Uptime  : since 2022
-Packages: 54 repos installed
-DE      : VS Code + Vim
-Theme   : Dark [always]
-
-Contact : aryansaxenaalig@gmail.com
-NPM     : npmjs.com/package/vibedit
-```
 
 <!-- TERMINAL: ABOUT -->
 ```bash
@@ -153,71 +111,6 @@ drwxr-xr-x  terminus-project/
 
 ---
 
-<!-- TERMINAL: TECH STACK -->
-```bash
-┌──[aryan@github]─[~]
-└──╼ $ pacman -Qe | grep "installed"
-```
-
-<div align="center">
-
-```
-LANGUAGES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-```
-FRAMEWORKS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=white)
-
-```
-BLOCKCHAIN ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-0d1117?style=for-the-badge&logo=openzeppelin&logoColor=4E5EE4)
-
-```
-TOOLS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-0d1117?style=for-the-badge&logo=ffmpeg&logoColor=007808)
-
-</div>
-
----
-
-<!-- 3D CONTRIBUTION GRAPH -->
-```bash
-┌──[aryan@github]─[~]
-└──╼ $ ./render-3d-contrib --theme=night-rainbow
-```
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="98%" alt="3D Contribution Graph"/>
-</div>
-
----
-
 <!-- GITHUB STATS -->
 ```bash
 ┌──[aryan@github]─[~]
@@ -232,10 +125,6 @@ TOOLS ━━━━━━━━━━━━━━━━━━━━━━━━�
 </div>
 
 <div align="center">
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanSaxenaa&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<div align="center">
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AryanSaxenaa&bg_color=0d1117&color=00FF41&line=00FF41&point=c9d1d9&area=true&area_color=00FF4120&hide_border=true&custom_title=%24%20git%20log%20--graph%20--oneline%20--all" />
 </div>
 
@@ -243,12 +132,6 @@ TOOLS ━━━━━━━━━━━━━━━━━━━━━━━━�
 
 <!-- FOOTER -->
 <div align="center">
-
-```
-┌──[aryan@github]─[~]
-└──╼ $ echo "Thanks for visiting. Let's build something."
-Thanks for visiting. Let's build something.
-```
 
 <br/>
 
