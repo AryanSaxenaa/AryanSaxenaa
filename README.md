@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=180&section=header&text=&fontSize=1" width="100%"/>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%24+whoami+--+Full+Stack+Developer+%7C+Blockchain+Enthusiast;%24+cat+mission.txt+--+Building+AI-Powered+Tools+%26+Web3+Solutions;%24+uptime+--+Shipping+code+since+2022" alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -49,5 +48,4 @@ fun_fact: "I built a text-based sci-fi strategy game with zero dependencies — 
 ```
 [Process completed - exit code 0]
 ```
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF41,100:0d1117&height=120&section=footer" width="100%"/>
 </div>
